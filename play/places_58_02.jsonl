@@ -940,3 +940,6 @@
 {"n":940,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mall court, west mouth. arc left open. 5 steps. The barrel stays for the push."}
 {"n":941,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at the Underpass. Nobody past the west mouth. We push in 6 steps. Arc on the left lane, open."}
 {"n":942,"kind":"place","name":"the Underpass west mouth","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"the Underpass west mouth. Matt keeps the barrel for the push. 7 steps, arc on the left lane, open."}
+{"n":943,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Underpass, west mouth. arc left open. 8 steps. The barrel stays for the push."}
+{"n":944,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the barrel at the Underpass. Nobody past the west mouth. We push in 2 steps. Arc on the left lane, open."}
+{"n":945,"kind":"place","name":"the Underpass west mouth","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"the Underpass west mouth. Nia keeps the barrel for the push. 3 steps, arc on the left lane, open."}
