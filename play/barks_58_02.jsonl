@@ -486,3 +486,6 @@
 {"n":486,"kind":"place","name":"the pier south curb","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"the pier south curb. Matt keeps the radio coil for the push. 6 steps, arc on the left lane, open."}
 {"n":487,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the pier, south curb. arc left open. 7 steps. The radio coil stays for the push."}
 {"n":488,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the radio coil at the pier. Nobody past the south curb. We push in 8 steps. Arc on the left lane, open."}
+{"n":489,"kind":"place","name":"the pier south curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the pier south curb. Nia keeps the radio coil for the push. 2 steps, arc on the left lane, open."}
+{"n":490,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the pier, south curb. arc left open. 3 steps. The radio coil stays for the push."}
+{"n":491,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the radio coil at the pier. Nobody past the south curb. We push in 4 steps. Arc on the left lane, open."}
