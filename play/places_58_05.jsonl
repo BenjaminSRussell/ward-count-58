@@ -562,3 +562,6 @@
 {"n":562,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at High line, east mouth. arc left open. 2 steps. The rebar stays for the push."}
 {"n":563,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the rebar at High line. Nobody past the east mouth. We push in 3 steps. Arc on the left lane, open."}
 {"n":564,"kind":"place","name":"High line east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line east mouth. Ivo keeps the rebar for the push. 4 steps, arc on the left lane, open."}
+{"n":565,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east mouth. arc left open. 5 steps. The rebar stays for the push."}
+{"n":566,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the rebar at High line. Nobody past the east mouth. We push in 6 steps. Arc on the left lane, open."}
+{"n":567,"kind":"place","name":"High line east mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line east mouth. Bess keeps the rebar for the push. 7 steps, arc on the left lane, open."}
