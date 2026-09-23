@@ -967,3 +967,6 @@
 {"n":967,"kind":"place","name":"the Underpass east mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Underpass east mouth. Bess keeps the barrel for the push. 2 steps, arc on the left lane, open."}
 {"n":968,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Underpass, east mouth. arc left open. 3 steps. The barrel stays for the push."}
 {"n":969,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at Mast yard. Nobody past the east mouth. We push in 4 steps. Arc on the left lane, open."}
+{"n":970,"kind":"place","name":"Mast yard east mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Mast yard east mouth. Matt keeps the barrel for the push. 5 steps, arc on the left lane, open."}
+{"n":971,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mast yard, east mouth. arc left open. 6 steps. The barrel stays for the push."}
+{"n":972,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the barrel at Mast yard. Nobody past the east mouth. We push in 7 steps. Arc on the left lane, open."}
