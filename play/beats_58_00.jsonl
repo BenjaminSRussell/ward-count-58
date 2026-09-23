@@ -1,0 +1,3 @@
+{"n":1,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the awning at Drydock. Nobody past the north curb. We push in 6 steps. Arc on the left lane, open."}
+{"n":2,"kind":"place","name":"Drydock north curb","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Drydock north curb. Matt keeps the awning for the push. 7 steps, arc on the left lane, open."}
+{"n":3,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Drydock, north curb. arc left open. 8 steps. The awning stays for the push."}
