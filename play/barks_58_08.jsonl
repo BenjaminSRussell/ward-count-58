@@ -927,3 +927,6 @@
 {"n":927,"kind":"place","name":"High line south mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line south mouth. Bess keeps the hydrant for the push. 7 steps, arc on the left lane, open."}
 {"n":928,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south mouth. arc left open. 8 steps. The hydrant stays for the push."}
 {"n":929,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the barrel at Ward gate. Nobody past the south mouth. We push in 2 steps. Arc on the left lane, open."}
+{"n":930,"kind":"place","name":"Ward gate south mouth","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate south mouth. Matt keeps the barrel for the push. 3 steps, arc on the left lane, open."}
+{"n":931,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, south mouth. arc left open. 4 steps. The barrel stays for the push."}
+{"n":932,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the barrel at Ward gate. Nobody past the south mouth. We push in 5 steps. Arc on the left lane, open."}
