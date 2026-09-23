@@ -404,3 +404,6 @@
 {"n":404,"kind":"place","name":"High line east mouth","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"High line east mouth. Ivo keeps the badge door for the push. 4 steps, arc on the left lane, open."}
 {"n":405,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, east mouth. arc left open. 5 steps. The badge door stays for the push."}
 {"n":406,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the badge door at High line. Nobody past the east mouth. We push in 6 steps. Arc on the left lane, open."}
+{"n":407,"kind":"place","name":"High line east mouth","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line east mouth. Bess keeps the badge door for the push. 7 steps, arc on the left lane, open."}
+{"n":408,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, east mouth. arc left open. 8 steps. The badge door stays for the push."}
+{"n":409,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the radio coil at Ward gate. Nobody past the east mouth. We push in 2 steps. Arc on the left lane, open."}
