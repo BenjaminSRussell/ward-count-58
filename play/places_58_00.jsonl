@@ -387,3 +387,6 @@
 {"n":387,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at the Lot, north curb. arc left open. 7 steps. The radio coil stays for the push."}
 {"n":388,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the radio coil at the Lot. Nobody past the north curb. We push in 8 steps. Arc on the left lane, open."}
 {"n":389,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot north curb. Nia keeps the radio coil for the push. 2 steps, arc on the left lane, open."}
+{"n":390,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, north curb. arc left open. 3 steps. The radio coil stays for the push."}
+{"n":391,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the radio coil at the Lot. Nobody past the north curb. We push in 4 steps. Arc on the left lane, open."}
+{"n":392,"kind":"place","name":"the Lot north curb","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot north curb. Ivo keeps the radio coil for the push. 5 steps, arc on the left lane, open."}
