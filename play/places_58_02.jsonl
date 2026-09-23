@@ -529,3 +529,6 @@
 {"n":529,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, south curb. arc left open. 7 steps. The radio coil stays for the push."}
 {"n":530,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the radio coil at Drydock. Nobody past the south curb. We push in 8 steps. Arc on the left lane, open."}
 {"n":531,"kind":"place","name":"Drydock south curb","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock south curb. Bess keeps the radio coil for the push. 2 steps, arc on the left lane, open."}
+{"n":532,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south curb. arc left open. 3 steps. The radio coil stays for the push."}
+{"n":533,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the radio coil at High line. Nobody past the south curb. We push in 4 steps. Arc on the left lane, open."}
+{"n":534,"kind":"place","name":"High line south curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"High line south curb. Matt keeps the radio coil for the push. 5 steps, arc on the left lane, open."}
