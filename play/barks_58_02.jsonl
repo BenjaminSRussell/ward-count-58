@@ -414,3 +414,6 @@
 {"n":414,"kind":"place","name":"Stockyard fence south curb","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Stockyard fence south curb. Matt keeps the radio coil for the push. 4 steps, arc on the left lane, open."}
 {"n":415,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Stockyard fence, south curb. arc left open. 5 steps. The radio coil stays for the push."}
 {"n":416,"kind":"bark","speaker":"Lis","moment":"push","line":"Lis: Hold the radio coil at Stockyard fence. Nobody past the south curb. We push in 6 steps. Arc on the left lane, open."}
+{"n":417,"kind":"place","name":"Stockyard fence south curb","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Stockyard fence south curb. Nia keeps the radio coil for the push. 7 steps, arc on the left lane, open."}
+{"n":418,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Stockyard fence, south curb. arc left open. 8 steps. The radio coil stays for the push."}
+{"n":419,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the radio coil at Stockyard fence. Nobody past the south curb. We push in 2 steps. Arc on the left lane, open."}
