@@ -173,3 +173,6 @@
 {"n":173,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north mouth. arc left open. 3 steps. The crate stays for the push."}
 {"n":174,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the crate at Last Light. Nobody past the north mouth. We push in 4 steps. Arc on the left lane, open."}
 {"n":175,"kind":"place","name":"Last Light north mouth","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Last Light north mouth. Bess keeps the crate for the push. 5 steps, arc on the left lane, open."}
+{"n":176,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north mouth. arc left open. 6 steps. The crate stays for the push."}
+{"n":177,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the crate at South stair. Nobody past the north mouth. We push in 7 steps. Arc on the left lane, open."}
+{"n":178,"kind":"place","name":"South stair north mouth","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"South stair north mouth. Matt keeps the crate for the push. 8 steps, arc on the left lane, open."}
