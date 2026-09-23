@@ -531,3 +531,6 @@
 {"n":531,"kind":"bark","speaker":"June","moment":"push","line":"June: Hold the rebar at High line. Nobody past the south curb. We push in 3 steps. Arc on the left lane, open."}
 {"n":532,"kind":"place","name":"High line south curb","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"High line south curb. Ivo keeps the rebar for the push. 4 steps, arc on the left lane, open."}
 {"n":533,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south curb. arc left open. 5 steps. The rebar stays for the push."}
+{"n":534,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the rebar at High line. Nobody past the south curb. We push in 6 steps. Arc on the left lane, open."}
+{"n":535,"kind":"place","name":"High line south curb","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"High line south curb. Bess keeps the rebar for the push. 7 steps, arc on the left lane, open."}
+{"n":536,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south curb. arc left open. 8 steps. The rebar stays for the push."}
