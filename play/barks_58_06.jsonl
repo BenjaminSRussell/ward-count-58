@@ -728,3 +728,6 @@
 {"n":728,"kind":"place","name":"Drydock north mouth","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Drydock north mouth. Ivo keeps the plywood for the push. 6 steps, arc on the left lane, open."}
 {"n":729,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Drydock, north mouth. arc left open. 7 steps. The plywood stays for the push."}
 {"n":730,"kind":"bark","speaker":"Ada","moment":"push","line":"Ada: Hold the plywood at Drydock. Nobody past the north mouth. We push in 8 steps. Arc on the left lane, open."}
+{"n":731,"kind":"place","name":"Drydock north mouth","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Drydock north mouth. Bess keeps the plywood for the push. 2 steps, arc on the left lane, open."}
+{"n":732,"kind":"beat","name":"arc left open","approach":"arc","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, north mouth. arc left open. 3 steps. The plywood stays for the push."}
+{"n":733,"kind":"bark","speaker":"Sam","moment":"push","line":"Sam: Hold the plywood at High line. Nobody past the north mouth. We push in 4 steps. Arc on the left lane, open."}
